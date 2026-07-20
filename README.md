@@ -1,0 +1,1 @@
+# Segmentac-ao-Autom-atica-de-Les-oes-de-Pele-utilizando-Redes-Neurais-Convolucionais-U-Net
